@@ -1,0 +1,13 @@
+
+> my-v0-project@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+  ▲ Next.js 14.2.32
+  - Local:        http://localhost:3001
+  - Environments: .env.local
+
+ ✓ Starting...
+ ⚠ Attempted to load @next/swc-darwin-x64, but it was not installed
+ ⨯ Failed to load SWC binary for darwin/x64, see more info here: https://nextjs.org/docs/messages/failed-loading-swc
+[?25h
