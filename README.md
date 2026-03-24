@@ -7,6 +7,7 @@
 [![React](https://img.shields.io/badge/UI-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![shadcn/ui](https://img.shields.io/badge/Components-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Live Deployment](https://img.shields.io/badge/Vercel-Live_Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEPLOYMENT_LINK_HERE)
 
 *NeoServe is a masterfully engineered, end-to-end service experience platform. It dissolves the barrier between incoming customer queries and internal agent fulfillment through context-aware artificial intelligence, multi-lingual flexibility, and holistic employee management.*
 
