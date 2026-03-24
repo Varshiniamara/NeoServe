@@ -135,17 +135,3 @@ npm run dev
 **Step 4. Access the Nexus**  
 Open your preferred web client and navigate to `http://localhost:3000`.
 
----
-
-## 🚀 7. Production Deployment (Vercel)
-
-NeoServe's Next.js infrastructure is natively targeted for immediate deployment on the Vercel edge network:
-1. Connect your GitHub repository target within the Vercel Dashboard.
-2. Select the framework preset `Next.js`.
-3. Vercel automatically infers all static builds and transforms API routes `/api/*` into auto-scaled Serverless functions.
-
----
-<div align="center">
-  <b>Architecting the next century of digital relationships.</b><br>
-  Built with ❤️ by the NeoServe Development Initiative.
-</div>
