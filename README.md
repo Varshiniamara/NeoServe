@@ -120,6 +120,3 @@ Navigate to `http://localhost:3000` in your preferred browser.
 3. Your API routes will automatically deploy as serverless functions.
 *(For production data, integrating a database like PostgreSQL via Prisma or MongoDB is recommended to replace the mock JSON data endpoints.)*
 
----
-
-> Built with ❤️ using Next.js, React, and TailwindCSS
